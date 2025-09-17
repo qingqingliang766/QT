@@ -1,0 +1,9 @@
+# ninja log v6
+3	526	7797379593937809	Chapter2MouseEvent_autogen/timestamp	21eeccd639baa9d1
+3	526	7797379593937809	Chapter2MouseEvent_autogen/mocs_compilation.cpp	21eeccd639baa9d1
+3	526	7797379593937809	E:/code/QTproject/Chapter2MouseEvent/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Chapter2MouseEvent_autogen/timestamp	21eeccd639baa9d1
+3	526	7797379593937809	E:/code/QTproject/Chapter2MouseEvent/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Chapter2MouseEvent_autogen/mocs_compilation.cpp	21eeccd639baa9d1
+532	2074	7797379594595176	CMakeFiles/Chapter2MouseEvent.dir/Chapter2MouseEvent_autogen/mocs_compilation.cpp.obj	696484863635889c
+535	2094	7797379594630294	CMakeFiles/Chapter2MouseEvent.dir/main.cpp.obj	df0dd374560ca58b
+538	5009	7797379594660356	CMakeFiles/Chapter2MouseEvent.dir/mainwindow.cpp.obj	673f6f1e06696192
+5011	5237	7797379639392874	Chapter2MouseEvent.exe	8acab1527dad87d2
