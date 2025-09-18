@@ -1,4 +1,4 @@
-# Install script for directory: E:/code/QTproject/picturelooker
+# Install script for directory: E:/code/QTproject/Image Viewer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

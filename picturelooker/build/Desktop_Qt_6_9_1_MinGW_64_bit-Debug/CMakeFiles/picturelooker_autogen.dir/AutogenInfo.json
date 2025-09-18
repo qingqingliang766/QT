@@ -3,11 +3,11 @@
 	"BUILD_DIR" : "E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen",
 	"CMAKE_BINARY_DIR" : "E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
 	"CMAKE_CURRENT_BINARY_DIR" : "E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "E:/code/QTproject/picturelooker",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/code/QTproject/Image Viewer",
 	"CMAKE_EXECUTABLE" : "E:/Software/QT/Tools/CMake_64/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"E:/code/QTproject/picturelooker/CMakeLists.txt",
+		"E:/code/QTproject/Image Viewer/CMakeLists.txt",
 		"E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
 		"E:/Software/QT/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake",
 		"E:/Software/QT/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystem.cmake.in",
@@ -407,14 +407,14 @@
 		"E:/Software/QT/6.9.1/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
 		"E:/Software/QT/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "E:/code/QTproject/picturelooker",
+	"CMAKE_SOURCE_DIR" : "E:/code/QTproject/Image Viewer",
 	"CROSS_CONFIG" : false,
 	"DEP_FILE" : "E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "picturelooker_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"E:/code/QTproject/picturelooker/widget.h",
+			"E:/code/QTproject/Image Viewer/widget.h",
 			"MU",
 			"EWIEGA46WW/moc_widget.cpp",
 			null
@@ -491,8 +491,8 @@
 	"SETTINGS_FILE" : "E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/picturelooker_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "E:/code/QTproject/picturelooker/main.cpp", "MU", null ],
-		[ "E:/code/QTproject/picturelooker/widget.cpp", "MU", null ]
+		[ "E:/code/QTproject/Image Viewer/main.cpp", "MU", null ],
+		[ "E:/code/QTproject/Image Viewer/widget.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

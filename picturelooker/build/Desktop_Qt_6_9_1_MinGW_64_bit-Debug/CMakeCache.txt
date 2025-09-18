@@ -380,7 +380,7 @@ picturelooker_BINARY_DIR:STATIC=E:/code/QTproject/picturelooker/build/Desktop_Qt
 picturelooker_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-picturelooker_SOURCE_DIR:STATIC=E:/code/QTproject/picturelooker
+picturelooker_SOURCE_DIR:STATIC=E:/code/QTproject/Image Viewer
 
 
 ########################
@@ -451,7 +451,7 @@ CMAKE_GENERATOR_TOOLSET:INTERNAL=
 CMAKE_HAVE_LIBC_PTHREAD:INTERNAL=1
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=E:/code/QTproject/picturelooker
+CMAKE_HOME_DIRECTORY:INTERNAL=E:/code/QTproject/Image Viewer
 //ADVANCED property for variable: CMAKE_INSTALL_BINDIR
 CMAKE_INSTALL_BINDIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_INSTALL_DATADIR

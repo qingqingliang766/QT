@@ -634,15 +634,15 @@ picturelooker_autogen/timestamp: \
 	E:/Software/QT/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
 	E:/Software/QT/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
 	E:/Software/QT/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
-	E:/code/QTproject/picturelooker/CMakeLists.txt \
+	E:/code/QTproject/Image\ Viewer/CMakeLists.txt \
+	E:/code/QTproject/Image\ Viewer/main.cpp \
+	E:/code/QTproject/Image\ Viewer/widget.cpp \
+	E:/code/QTproject/Image\ Viewer/widget.h \
 	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
 	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qtc/package-manager/maintenance_tool_provider.cmake \
 	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
 	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake \
 	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
 	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/moc_predefs.h \
-	E:/code/QTproject/picturelooker/main.cpp \
-	E:/code/QTproject/picturelooker/widget.cpp \
-	E:/code/QTproject/picturelooker/widget.h \
-	E:/code/QTproject/picturelooker/widget.ui \
+	E:/code/QTproject/Image\ Viewer/widget.ui \
 	E:/Software/QT/Tools/CMake_64/bin/cmake.exe

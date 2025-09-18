@@ -1,4 +1,4 @@
-E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/EWIEGA46WW/moc_widget.cpp: E:/code/QTproject/picturelooker/widget.h \
+E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/EWIEGA46WW/moc_widget.cpp: E:/code/QTproject/Image\ Viewer/widget.h \
   E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/moc_predefs.h \
   E:/Software/QT/6.9.1/mingw_64/include/QtCore/q17memory.h \
   E:/Software/QT/6.9.1/mingw_64/include/QtCore/q20functional.h \

@@ -6,7 +6,7 @@
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
 
-#include "../../../../widget.h"
+#include "../../../../../Image Viewer/widget.h"
 #include <QtCore/qmetatype.h>
 
 #include <QtCore/qtmochelpers.h>
@@ -39,12 +39,12 @@ template <> constexpr inline auto Widget::qt_create_metaobjectdata<qt_meta_tag_Z
     namespace QMC = QtMocConstants;
     QtMocHelpers::StringRefStorage qt_stringData {
         "Widget",
-        "on_btnopen_clicked",
+        "btnopen_clicked",
         ""
     };
 
     QtMocHelpers::UintData qt_methods {
-        // Slot 'on_btnopen_clicked'
+        // Slot 'btnopen_clicked'
         QtMocHelpers::SlotData<void()>(1, 2, QMC::AccessPrivate, QMetaType::Void),
     };
     QtMocHelpers::UintData qt_properties {
@@ -69,7 +69,7 @@ void Widget::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void
     auto *_t = static_cast<Widget *>(_o);
     if (_c == QMetaObject::InvokeMetaMethod) {
         switch (_id) {
-        case 0: _t->on_btnopen_clicked(); break;
+        case 0: _t->btnopen_clicked(); break;
         default: ;
         }
     }
