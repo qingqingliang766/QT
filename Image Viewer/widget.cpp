@@ -37,11 +37,16 @@ void Widget::btnopen_clicked()
     }
 
     QString FileName = QFileDialog::getOpenFileName(this, "请选择目录：", lastPath);
+    if (FileName.isEmpty()) { // 处理“用户取消选择”的情况
+        delete pIniSet;
+        return;
+    }
 
     //图片自适应功能
     QPixmap *pix = new QPixmap(FileName);
-    pix->scaled(ui->picture->size(), Qt::KeepAspectRatio);
-    ui->picture->setScaledContents(true);
+    pix->scaled(ui->picture->size(), Qt::KeepAspectRatio, Qt::SmoothTransformation);
+    //ui->picture->setScaledContents(true);
+    ui->picture->setAlignment(Qt::AlignCenter); // 图片在 QLabel 中居中
 
     ui->address->setText(FileName);
     ui->picture->setPixmap(*pix);

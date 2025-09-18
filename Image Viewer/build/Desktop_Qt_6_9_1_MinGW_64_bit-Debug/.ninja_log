@@ -1,61 +1,33 @@
 # ninja log v6
-25	148	7799009349059366	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-25	148	7799009349059366	picturelooker_autogen/timestamp	6ad4b1928405d39d
-25	148	7799009349059366	picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-475	1949	7798227241945886	CMakeFiles/picturelooker.dir/picturelooker_autogen/mocs_compilation.cpp.obj	e322b4c29a3c4ca6
-25	148	7799009349059366	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/timestamp	6ad4b1928405d39d
-478	1989	7798227241976028	CMakeFiles/picturelooker.dir/main.cpp.obj	9d9c806d56d777e5
-149	2032	7799009350297085	CMakeFiles/picturelooker.dir/widget.cpp.obj	4a35c1e1bb874d8f
-2032	2213	7799009369129651	picturelooker.exe	5cb572b96b58a27b
-17	162	7799011331235154	picturelooker_autogen/timestamp	6ad4b1928405d39d
-17	162	7799011331235154	picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-17	162	7799011331235154	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/timestamp	6ad4b1928405d39d
-17	162	7799011331235154	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-163	2224	7799011332700778	CMakeFiles/picturelooker.dir/widget.cpp.obj	4a35c1e1bb874d8f
-2224	2393	7799011353301974	picturelooker.exe	5cb572b96b58a27b
-27	157	7799011587603378	picturelooker_autogen/timestamp	6ad4b1928405d39d
-27	157	7799011587603378	picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-27	157	7799011587603378	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/timestamp	6ad4b1928405d39d
-27	157	7799011587603378	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-157	2234	7799011588917444	CMakeFiles/picturelooker.dir/widget.cpp.obj	4a35c1e1bb874d8f
-2234	2411	7799011609680780	picturelooker.exe	5cb572b96b58a27b
-23	147	7799017019104054	picturelooker_autogen/timestamp	6ad4b1928405d39d
-23	147	7799017019104054	picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-23	147	7799017019104054	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/timestamp	6ad4b1928405d39d
-23	147	7799017019104054	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-147	2128	7799017020343539	CMakeFiles/picturelooker.dir/widget.cpp.obj	4a35c1e1bb874d8f
-2128	2310	7799017040148546	picturelooker.exe	5cb572b96b58a27b
-24	154	7799017334917046	picturelooker_autogen/timestamp	6ad4b1928405d39d
-24	154	7799017334917046	picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-24	154	7799017334917046	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/timestamp	6ad4b1928405d39d
-24	154	7799017334917046	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-29	170	7799017424547090	picturelooker_autogen/timestamp	6ad4b1928405d39d
-29	170	7799017424547090	picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-29	170	7799017424547090	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/timestamp	6ad4b1928405d39d
-29	170	7799017424547090	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-171	2231	7799017425965434	CMakeFiles/picturelooker.dir/widget.cpp.obj	4a35c1e1bb874d8f
-2231	2410	7799017446566832	picturelooker.exe	5cb572b96b58a27b
-25	153	7799018077720604	picturelooker_autogen/timestamp	6ad4b1928405d39d
-25	153	7799018077720604	picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-25	153	7799018077720604	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/timestamp	6ad4b1928405d39d
-25	153	7799018077720604	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-153	2245	7799018079008704	CMakeFiles/picturelooker.dir/widget.cpp.obj	4a35c1e1bb874d8f
-2245	2435	7799018099929973	picturelooker.exe	5cb572b96b58a27b
-6	147	7799020874349493	picturelooker_autogen/timestamp	6ad4b1928405d39d
-6	147	7799020874349493	picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-6	147	7799020874349493	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/timestamp	6ad4b1928405d39d
-6	147	7799020874349493	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-148	2152	7799020875760841	CMakeFiles/picturelooker.dir/widget.cpp.obj	4a35c1e1bb874d8f
-2152	2330	7799020895815509	picturelooker.exe	5cb572b96b58a27b
-24	161	7799022826281296	picturelooker_autogen/timestamp	6ad4b1928405d39d
-24	161	7799022826281296	picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-24	161	7799022826281296	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/timestamp	6ad4b1928405d39d
-24	161	7799022826281296	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-162	2122	7799022827658411	CMakeFiles/picturelooker.dir/widget.cpp.obj	4a35c1e1bb874d8f
-2122	2309	7799022847262168	picturelooker.exe	5cb572b96b58a27b
-7	148	7799036168122688	picturelooker_autogen/timestamp	6ad4b1928405d39d
-7	148	7799036168122688	picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-7	148	7799036168122688	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/timestamp	6ad4b1928405d39d
-7	148	7799036168122688	E:/code/QTproject/picturelooker/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/picturelooker_autogen/mocs_compilation.cpp	6ad4b1928405d39d
-148	2271	7799036169532402	CMakeFiles/picturelooker.dir/widget.cpp.obj	4a35c1e1bb874d8f
-2272	2458	7799036190762379	picturelooker.exe	5cb572b96b58a27b
+3	484	7799125433251370	ImageViewer_autogen/timestamp	8e8e4c3b43342c65
+3	484	7799125433251370	ImageViewer_autogen/mocs_compilation.cpp	8e8e4c3b43342c65
+3	484	7799125433251370	E:/code/QTproject/Image Viewer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ImageViewer_autogen/timestamp	8e8e4c3b43342c65
+3	484	7799125433251370	E:/code/QTproject/Image Viewer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ImageViewer_autogen/mocs_compilation.cpp	8e8e4c3b43342c65
+489	1917	7799125433904748	CMakeFiles/ImageViewer.dir/ImageViewer_autogen/mocs_compilation.cpp.obj	b1cb9e32135bac03
+492	1946	7799125433934745	CMakeFiles/ImageViewer.dir/main.cpp.obj	d7a636582c2d742d
+495	2418	7799125433964795	CMakeFiles/ImageViewer.dir/widget.cpp.obj	7c53b71561311ade
+2421	2604	7799125453223389	ImageViewer.exe	97c9e7f6f9d6f147
+6	134	7799127782618133	ImageViewer_autogen/timestamp	8e8e4c3b43342c65
+6	134	7799127782618133	ImageViewer_autogen/mocs_compilation.cpp	8e8e4c3b43342c65
+6	134	7799127782618133	E:/code/QTproject/Image Viewer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ImageViewer_autogen/timestamp	8e8e4c3b43342c65
+6	134	7799127782618133	E:/code/QTproject/Image Viewer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ImageViewer_autogen/mocs_compilation.cpp	8e8e4c3b43342c65
+134	2009	7799127783904904	CMakeFiles/ImageViewer.dir/widget.cpp.obj	7c53b71561311ade
+2009	2168	7799127802626037	ImageViewer.exe	97c9e7f6f9d6f147
+6	132	7799129722626144	ImageViewer_autogen/timestamp	8e8e4c3b43342c65
+6	132	7799129722626144	ImageViewer_autogen/mocs_compilation.cpp	8e8e4c3b43342c65
+6	132	7799129722626144	E:/code/QTproject/Image Viewer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ImageViewer_autogen/timestamp	8e8e4c3b43342c65
+6	132	7799129722626144	E:/code/QTproject/Image Viewer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ImageViewer_autogen/mocs_compilation.cpp	8e8e4c3b43342c65
+132	2221	7799129723842071	CMakeFiles/ImageViewer.dir/widget.cpp.obj	7c53b71561311ade
+2222	2395	7799129744774910	ImageViewer.exe	97c9e7f6f9d6f147
+24	149	7799130808107956	ImageViewer_autogen/timestamp	8e8e4c3b43342c65
+24	149	7799130808107956	ImageViewer_autogen/mocs_compilation.cpp	8e8e4c3b43342c65
+24	149	7799130808107956	E:/code/QTproject/Image Viewer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ImageViewer_autogen/timestamp	8e8e4c3b43342c65
+24	149	7799130808107956	E:/code/QTproject/Image Viewer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ImageViewer_autogen/mocs_compilation.cpp	8e8e4c3b43342c65
+149	2090	7799130809386115	CMakeFiles/ImageViewer.dir/widget.cpp.obj	7c53b71561311ade
+2090	2257	7799130828766290	ImageViewer.exe	97c9e7f6f9d6f147
+23	144	7799131697434272	ImageViewer_autogen/timestamp	8e8e4c3b43342c65
+23	144	7799131697434272	ImageViewer_autogen/mocs_compilation.cpp	8e8e4c3b43342c65
+23	144	7799131697434272	E:/code/QTproject/Image Viewer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ImageViewer_autogen/timestamp	8e8e4c3b43342c65
+23	144	7799131697434272	E:/code/QTproject/Image Viewer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ImageViewer_autogen/mocs_compilation.cpp	8e8e4c3b43342c65
+144	2048	7799131698657458	CMakeFiles/ImageViewer.dir/widget.cpp.obj	7c53b71561311ade
+2048	2204	7799131717694178	ImageViewer.exe	97c9e7f6f9d6f147
