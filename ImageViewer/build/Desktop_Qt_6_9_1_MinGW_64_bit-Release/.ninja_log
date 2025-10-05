@@ -1,0 +1,9 @@
+# ninja log v6
+3	520	7813644967714091	ImageViewer_autogen/timestamp	5841a282acfbc4f3
+3	520	7813644967714091	ImageViewer_autogen/mocs_compilation.cpp	5841a282acfbc4f3
+3	520	7813644967714091	E:/code/QTproject/ImageViewer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/ImageViewer_autogen/timestamp	5841a282acfbc4f3
+3	520	7813644967714091	E:/code/QTproject/ImageViewer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/ImageViewer_autogen/mocs_compilation.cpp	5841a282acfbc4f3
+529	1811	7813644968418284	CMakeFiles/ImageViewer.dir/main.cpp.obj	445596dafc9b245f
+526	1821	7813644968378273	CMakeFiles/ImageViewer.dir/ImageViewer_autogen/mocs_compilation.cpp.obj	7df4dfabc002ea33
+532	2221	7813644968448290	CMakeFiles/ImageViewer.dir/widget.cpp.obj	2481cba98c46f2f2
+2221	2356	7813644985334796	ImageViewer.exe	a2be7f64db7fb9bc
