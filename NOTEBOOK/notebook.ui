@@ -6,13 +6,226 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>533</width>
+    <height>479</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>NoteBook</string>
   </property>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>531</width>
+     <height>481</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <property name="spacing">
+     <number>0</number>
+    </property>
+    <item>
+     <widget class="QWidget" name="widgetButtons" native="true">
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>50</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(213, 213, 213);</string>
+      </property>
+      <widget class="QWidget" name="layoutWidget">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>431</width>
+         <height>47</height>
+        </rect>
+       </property>
+       <layout class="QHBoxLayout" name="horizontalLayoutButtons">
+        <item>
+         <widget class="QPushButton" name="btnOpen">
+          <property name="minimumSize">
+           <size>
+            <width>45</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QPushButton {
+    border: none; /* 去掉默认边框，避免遮挡图标 */
+    background: transparent; /* 透明背景，只留图标 */
+    image: url(:/icon_ygvn79rm2ta/文件.svg); /* 用image显示SVG */
+    width: 40px; /* 按钮宽度（和你的SVG尺寸一致，比如40x40） */
+    height: 40px; /* 按钮高度 */
+    padding: 0; /* 去掉内边距，图标顶满按钮 */
+}
+/* 点击时图标透明度降低 */
+QPushButton:pressed {
+    image: url(:/icon_ygvn79rm2ta/文件.svg);
+    opacity: 0.6; /* 透明度60%（0是全透明，1是不透明） */
+}
+/* 点击时图标向下移2px */
+QPushButton:pressed {
+    image: url(:/icon_ygvn79rm2ta/文件.svg);
+    padding-top: 2px; /* 顶部内边距增加，图标下移 */
+    padding-bottom: 0;
+}</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="btnClose">
+          <property name="minimumSize">
+           <size>
+            <width>45</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QPushButton {
+    border: none; /* 去掉默认边框，避免遮挡图标 */
+    background: transparent; /* 透明背景，只留图标 */
+    image: url(:/icon_ygvn79rm2ta/关闭.svg); /* 用image显示SVG */
+    width: 40px; /* 按钮宽度（和你的SVG尺寸一致，比如40x40） */
+    height: 40px; /* 按钮高度 */
+    padding: 0; /* 去掉内边距，图标顶满按钮 */
+}
+/* 点击时图标透明度降低 */
+QPushButton:pressed {
+    image: url(:/icon_ygvn79rm2ta/关闭.svg);
+    opacity: 0.6; /* 透明度60%（0是全透明，1是不透明） */
+}
+/* 点击时图标向下移2px */
+QPushButton:pressed {
+    image: url(:/icon_ygvn79rm2ta/关闭.svg);
+    padding-top: 2px; /* 顶部内边距增加，图标下移 */
+    padding-bottom: 0;
+}</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="btnSave">
+          <property name="minimumSize">
+           <size>
+            <width>45</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QPushButton {
+    border: none; /* 去掉默认边框，避免遮挡图标 */
+    background: transparent; /* 透明背景，只留图标 */
+    image: url(:/icon_ygvn79rm2ta/保存.svg);/* 用image显示SVG */
+    width: 40px; /* 按钮宽度（和你的SVG尺寸一致，比如40x40） */
+    height: 40px; /* 按钮高度 */
+    padding: 0; /* 去掉内边距，图标顶满按钮 */
+}
+/* 点击时图标透明度降低 */
+QPushButton:pressed {
+    image: url(:/icon_ygvn79rm2ta/保存.svg);
+    opacity: 0.6; /* 透明度60%（0是全透明，1是不透明） */
+}
+/* 点击时图标向下移2px */
+QPushButton:pressed {
+    image: url(:/icon_ygvn79rm2ta/保存.svg);
+    padding-top: 2px; /* 顶部内边距增加，图标下移 */
+    padding-bottom: 0;
+}</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <spacer name="horizontalSpacer">
+          <property name="orientation">
+           <enum>Qt::Orientation::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+    <item>
+     <widget class="QTextEdit" name="textEdit"/>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout"/>
+    </item>
+    <item>
+     <widget class="QWidget" name="widgetBottom" native="true">
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>60</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(213, 213, 213);</string>
+      </property>
+      <widget class="QWidget" name="">
+       <property name="geometry">
+        <rect>
+         <x>24</x>
+         <y>11</y>
+         <width>491</width>
+         <height>41</height>
+        </rect>
+       </property>
+       <layout class="QHBoxLayout" name="horizontalLayout_3">
+        <item>
+         <widget class="QLabel" name="labelPosition">
+          <property name="text">
+           <string>第一行第一列</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="labelCode">
+          <property name="text">
+           <string>UTF-8</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <spacer name="horizontalSpacer_2">
+          <property name="orientation">
+           <enum>Qt::Orientation::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
  </widget>
  <resources/>
  <connections/>

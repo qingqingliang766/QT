@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon_ygvn79rm2ta/保存.svg</file>
+        <file>icon_ygvn79rm2ta/文件.svg</file>
+        <file>icon_ygvn79rm2ta/关闭.svg</file>
+    </qresource>
+</RCC>

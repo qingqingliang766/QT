@@ -17,7 +17,17 @@ public:
     NoteBook(QWidget *parent = nullptr);
     ~NoteBook();
 
+private slots:
+    void on_btnClose_clicked();
+
+    void on_btnOpen_clicked();
+
+    void on_btnSave_clicked();
+
 private:
     Ui::NoteBook *ui;
+
+private:
+    void sendwrods();
 };
 #endif // NOTEBOOK_H
