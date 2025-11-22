@@ -1,6 +1,7 @@
 #ifndef NOTEBOOK_H
 #define NOTEBOOK_H
 
+#include <QFile>
 #include <QWidget>
 
 QT_BEGIN_NAMESPACE
@@ -28,6 +29,6 @@ private:
     Ui::NoteBook *ui;
 
 private:
-    void sendwrods();
+    QFile file;
 };
 #endif // NOTEBOOK_H

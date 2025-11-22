@@ -22,20 +22,20 @@ NoteBook::~NoteBook()
     delete ui;
 }
 
-
 void NoteBook::on_btnOpen_clicked()
 {
+    file.close();
     ui->textEdit->clear();
 
     QString filePath = QFileDialog::getOpenFileName(
         this,
         "打开文件",
-        "..",
+        ".",
         "文本文件 (*.txt *.*);"
         );
 
-    // 3. 打开文件并读取内容
-    QFile file(filePath);  // 创建文件对象，传入文件路径
+    // 3. 打开文件并读取内容z
+    file.setFileName(filePath);  // 创建文件对象，传入文件路径
 
     // 以“只读模式”打开文件
     if (!file.open(QIODevice::ReadOnly | QIODevice::Text)) {
@@ -52,8 +52,6 @@ void NoteBook::on_btnOpen_clicked()
         fileContent.append(in.readLine() + "\n") ;  // 读取全部内容
     }
 
-    file.close();
-
     //将内容显示到 QTextEdit
     ui->textEdit->setPlainText(fileContent);
 }
@@ -61,7 +59,11 @@ void NoteBook::on_btnOpen_clicked()
 
 void NoteBook::on_btnClose_clicked()
 {
-    this->close();
+    if (file.isOpen())
+    {
+        file.close();
+        ui->textEdit->clear();
+    }
 }
 
 void NoteBook::on_btnSave_clicked()
@@ -74,7 +76,7 @@ void NoteBook::on_btnSave_clicked()
         ".",
         "文本文件 (*.txt *.*);"
         );
-    QFile file(SavefilePath);  // 创建文件对象，传入文件路径
+    file.setFileName(SavefilePath);   // 创建文件对象，传入文件路径
 
     //打开文件
     if (!file.open(QIODevice::WriteOnly | QIODevice::Text)) {
@@ -86,7 +88,5 @@ void NoteBook::on_btnSave_clicked()
     QTextStream out(&file);
     out.setEncoding(QStringEncoder::Utf8);  // 保存为UTF-8，跨平台兼容
     out << TextContent;
-
-    file.close();
 }
 
